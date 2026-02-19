@@ -351,8 +351,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - scikit-learn developers
 - Streamlit community
 
-## 📧 Contact
-
-Ansh Kumar - [anshkumar.info@gmail.com](mailto:anshkumar.info@gmail.com)
-
 ---
